@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:a78bfa&height=220&section=header&text=Paboda%20Sathsarani%20Fernando&fontSize=38&fontColor=e6edf3&fontAlignY=35&desc=Data%20Science%20Undergraduate%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descSize=16&descColor=c9d1d9&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:1B3A8A,100:4169E1&height=220&section=header&text=Paboda%20Sathsarani%20Fernando&fontSize=38&fontColor=e6edf3&fontAlignY=35&desc=Data%20Science%20Undergraduate%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descSize=16&descColor=EAF2FF&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%F0%9F%93%8A+Turning+data+into+intelligent+solutions;%F0%9F%A4%96+Building+AI%2FML+and+predictive+systems;%F0%9F%8C%90+Creating+full-stack+data-driven+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%F0%9F%93%8A+Turning+data+into+intelligent+solutions;%F0%9F%A4%96+Building+AI%2FML+and+predictive+systems;%F0%9F%8C%90+Creating+full-stack+data-driven+applications" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=PabodaFdo&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=PabodaFdo&style=for-the-badge&color=4169E1&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/PabodaFdo?tab=followers">
-  <img src="https://img.shields.io/github/followers/PabodaFdo?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/PabodaFdo?style=for-the-badge&color=4169E1&labelColor=061A40&logo=github&label=Followers" alt="Followers"/>
 </a>
 
 </div>
@@ -72,7 +72,7 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-4169E1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
@@ -80,7 +80,7 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/H2_Database-0284C7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/H2_Database-1E90FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -94,17 +94,17 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-38BDF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Predictive_Analytics-A78BFA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-87CEFA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Predictive_Analytics-4169E1?style=for-the-badge"/>
 </p>
 
 ### 📐 Concepts
 <p>
-  <img src="https://img.shields.io/badge/OOP-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVC-0284C7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agile-38BDF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Structures-A78BFA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feature_Engineering-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-4169E1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-87CEFA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Structures-4169E1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-1E3A8A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Model_Integration-161B22?style=for-the-badge"/>
 </p>
 
@@ -150,7 +150,7 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-4169E1?style=flat-square"/>
 </p>
 </td>
 
@@ -182,10 +182,10 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 <p><b>📊 <a href="https://github.com/PabodaFdo">Academic Data Science Projects</a></b></p>
 <p>Data-driven academic project work focused on EDA, predictive modeling, feature engineering, model evaluation, and practical AI/ML system integration.</p>
 <p>
-<img src="https://img.shields.io/badge/EDA-38BDF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model_Evaluation-A78BFA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Viz-0284C7?style=flat-square"/>
+<img src="https://img.shields.io/badge/EDA-87CEFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature_Engineering-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Model_Evaluation-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Viz-1E90FF?style=flat-square"/>
 </p>
 </td>
 </tr>
@@ -222,14 +222,14 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 <div align="center">
 
 <a href="https://github.com/PabodaFdo">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabodaFdo&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabodaFdo&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&hide_border=false&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabodaFdo&show_icons=true&theme=github_dark&border_color=30363d&bg_color=061A40&title_color=4169E1&icon_color=4169E1&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabodaFdo&layout=compact&theme=github_dark&border_color=30363d&bg_color=061A40&title_color=4169E1&text_color=8b949e&hide_border=false&langs_count=8" />
 </a>
 
 <br/>
 
 <!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=PabodaFdo&theme=dark&background=0d1117&border=30363d&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=PabodaFdo&theme=dark&background=061A40&border=30363d&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=4169E1&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -244,7 +244,7 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 ## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabodaFdo&bg_color=0d1117&color=a78bfa&line=a78bfa&point=e6edf3&area_color=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabodaFdo&bg_color=061A40&color=4169E1&line=4169E1&point=e6edf3&area_color=4169E1&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
 </div>
 
 ---
@@ -319,22 +319,6 @@ https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.s
 
 ### 💜 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:a78bfa&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:1B3A8A,100:4169E1&height=120&section=footer" width="100%"/>
 
 </div>
-
-
-<!--
-**PabodaFdo/PabodaFdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
