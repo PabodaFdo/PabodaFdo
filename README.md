@@ -26,19 +26,19 @@
 
 ```yaml
 name: W. Paboda Sathsarani Fernando
-located_in: Sri Lanka
+username: PabodaFdo
+located_in: Panadura, Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: BSc (Hons) in Information Technology
 specialization: Data Science
 academic_year: 2nd Year
-cgpa: 3.61
-open_to: Internship Opportunities - 2026
+open_to: Data Science, AI/ML, and Software Engineering Internships
 
 current_focus:
   - 📊 Data Science and Predictive Analytics
   - 🧠 Machine Learning and AI-Driven Applications
   - 💡 Recommendation Systems
-  - 🌐 Full-Stack Web Application Development
+  - 🌐 Full-Stack Web and Mobile Application Development
   - 📈 Data Visualization and Decision Support Systems
 
 languages: ["Sinhala", "English"]
@@ -68,6 +68,7 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 ### ⚡ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -104,7 +105,7 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
   <img src="https://img.shields.io/badge/Agile-87CEFA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Structures-4169E1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Feature_Engineering-1E3A8A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model_Integration-161B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model_Integration-061A40?style=for-the-badge"/>
 </p>
 
 </div>
@@ -115,22 +116,47 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 ## 🚀 &nbsp;Featured Projects
 
 <table align="center">
+
 <tr>
 <td width="50%" valign="top">
-<p><b>🏠 <a href="https://github.com/PabodaFdo">Real Estate Property Listing Portal</a></b></p>
-<p>A full-featured property listing platform with advanced search filters, property comparison, agent dashboards, and user authentication for buyers and sellers.</p>
+<p><b>💰 <a href="https://github.com/PabodaFdo/AI-Driven-Microfinance_Bank">AI-Driven Microfinance Loan Risk Prediction</a></b></p>
+<p>An end-to-end AI-powered microfinance system that predicts loan default risk and supports loan recommendations using machine learning models and a full-stack application workflow.</p>
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 </td>
 
 <td width="50%" valign="top">
-<p><b>🦟 <a href="https://github.com/PabodaFdo">Dengue Risk Prediction System</a></b></p>
-<p>A machine learning system that predicts dengue outbreak risk using climate data, population density, historical case patterns, and geospatial analysis.</p>
+<p><b>🏃 <a href="https://github.com/PabodaFdo/Fitness_Tracker_Mobile_App">Fitness Tracker Mobile App</a></b></p>
+<p>A mobile fitness tracking application for managing goals, recording progress, and viewing analytics through a user-friendly mobile interface.</p>
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<p><b>🗳️ <a href="https://github.com/PabodaFdo/Web-based-Voting-System-for-Award-Nominations">Web-Based Voting System for Award Nominations</a></b></p>
+<p>A secure online voting system for award nominations with voter authentication, admin controls, and real-time result handling for institutional use.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-4169E1?style=flat-square"/>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<p><b>🦟 <a href="https://github.com/PabodaFdo/Dengue-Risk-Prediction-System-">Dengue Risk Prediction System</a></b></p>
+<p>A machine learning system that predicts dengue outbreak risk using climate data, population density, historical case patterns, and data-driven risk analysis.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -143,51 +169,28 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 
 <tr>
 <td width="50%" valign="top">
-<p><b>🗳️ <a href="https://github.com/PabodaFdo">Web-Based Voting System</a></b></p>
-<p>A secure online voting platform with real-time result tracking, voter authentication, and admin controls for institutional and event-based elections.</p>
+<p><b>🏠 <a href="https://github.com/PabodaFdo/Real_Estate_Property_Listing_Portal">Real Estate Property Listing Portal</a></b></p>
+<p>A full-featured property listing platform with property search, listing management, comparison features, agent-related functions, and user authentication.</p>
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-4169E1?style=flat-square"/>
-</p>
-</td>
-
-<td width="50%" valign="top">
-<p><b>💰 <a href="https://github.com/PabodaFdo">AI-Driven Microfinance Loan Risk Prediction</a></b></p>
-<p>An end-to-end AI system that predicts loan default risk and recommends suitable loan packages for microfinance applicants using ensemble ML models and a React dashboard.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
-<p><b>🎨 <a href="https://github.com/PabodaFdo">Portfolio Website</a></b></p>
-<p>A modern personal portfolio website built with HTML, CSS, and JavaScript to showcase skills, projects, education, and contact details with a clean animated UI.</p>
+<p><b>🎨 <a href="https://github.com/PabodaFdo/Paboda_Portfolio">Portfolio Website</a></b></p>
+<p>A modern personal portfolio website built to showcase skills, projects, education, and contact details with a clean animated interface.</p>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 </td>
-
-<td width="50%" valign="top">
-<p><b>📊 <a href="https://github.com/PabodaFdo">Academic Data Science Projects</a></b></p>
-<p>Data-driven academic project work focused on EDA, predictive modeling, feature engineering, model evaluation, and practical AI/ML system integration.</p>
-<p>
-<img src="https://img.shields.io/badge/EDA-87CEFA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model_Evaluation-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Viz-1E90FF?style=flat-square"/>
-</p>
-</td>
 </tr>
+
 </table>
 
 ---
@@ -207,8 +210,8 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 
 <td width="50%" valign="top">
 <p><b>Academic Project Experience</b></p>
-<p>Delivered multiple real-world academic projects from requirements to deployment while working in cross-functional teams using Agile practices.</p>
-<p><b>Key Areas:</b> System Design, Backend APIs, ML Model Integration, Frontend Development, and Team Collaboration.</p>
+<p>Delivered multiple real-world academic projects from requirements to implementation while working in cross-functional teams using Agile practices.</p>
+<p><b>Key Areas:</b> System Design, Backend APIs, ML Model Integration, Frontend Development, Mobile Development, and Team Collaboration.</p>
 </td>
 </tr>
 </table>
@@ -243,7 +246,7 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 ## 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabodaFdo&bg_color=061A40&color=4169E1&line=4169E1&point=e6edf3&area_color=4169E1&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabodaFdo&bg_color=061A40&color=EAF2FF&line=4169E1&point=EAF2FF&area_color=4169E1&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
 </div>
 
 ---
@@ -280,7 +283,7 @@ Presenting insights clearly
 
 <!-- SNAKE ANIMATION -->
 <!-- 
-To enable this snake animation, add a GitHub Actions workflow that generates:
+To enable this snake animation, make sure the GitHub Actions workflow generates:
 https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.svg
 -->
 <div align="center">
@@ -294,16 +297,20 @@ https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.s
 
 <div align="center">
 
-<a href="mailto:paboda@email.com">
-  <img src="https://img.shields.io/badge/Gmail-Update%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:pabodafernandowpsf@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-pabodafernandowpsf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Update%20Link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/paboda-sathsarani">
+  <img src="https://img.shields.io/badge/LinkedIn-Paboda%20Sathsarani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/PabodaFdo">
   <img src="https://img.shields.io/badge/GitHub-PabodaFdo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1PwHbAJEh3Yxx8LeBhjpgB4f0DsDEGIFk/view?usp=sharing">
+  <img src="https://img.shields.io/badge/CV-View%20Resume-4169E1?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
 </a>
 
 <br/><br/>
@@ -316,7 +323,7 @@ https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.s
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:1B3A8A,100:4169E1&height=120&section=footer" width="100%"/>
 
