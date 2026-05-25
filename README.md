@@ -26,7 +26,6 @@
 
 ```yaml
 name: W. Paboda Sathsarani Fernando
-username: PabodaFdo
 located_in: Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: BSc (Hons) in Information Technology
