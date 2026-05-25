@@ -26,12 +26,11 @@
 
 ```yaml
 name: W. Paboda Sathsarani Fernando
-username: PabodaFdo
 located_in: Panadura, Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: BSc (Hons) in Information Technology
 specialization: Data Science
-academic_year: 2nd Year
+academic_year: 3nd Year
 open_to: Data Science, AI/ML, and Software Engineering Internships
 
 current_focus:
@@ -42,7 +41,7 @@ current_focus:
   - 📈 Data Visualization and Decision Support Systems
 
 languages: ["Sinhala", "English"]
-motto: "Turning data into intelligent solutions."
+motto: "Turning data, code, and ideas into intelligent solutions."
 ```
 
 I am a **Data Science undergraduate at SLIIT** with a strong interest in **machine learning, predictive analytics, recommendation systems, and full-stack development**. I enjoy building practical systems that combine clean user interfaces, backend logic, databases, and AI/ML models to solve real-world problems.
