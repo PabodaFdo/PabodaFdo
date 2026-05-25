@@ -314,7 +314,7 @@ https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.s
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Turning%20data%20into%20intelligent%20solutions.&author=Paboda%20Sathsarani%20Fernando" alt="Profile Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%20do%20it%2C%20then%20do%20it%20right%2C%20then%20do%20it%20better.&author=Addy%20Osmani" alt="Profile Quote"/>
 
 </div>
 
