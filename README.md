@@ -30,7 +30,7 @@ located_in: Panadura, Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
 degree: BSc (Hons) in Information Technology
 specialization: Data Science
-academic_year: 3nd Year
+academic_year: 3rd Year
 open_to: Data Science, AI/ML, and Software Engineering Internships
 
 current_focus:
@@ -233,11 +233,6 @@ I am a **Data Science undergraduate at SLIIT** with a strong interest in **machi
 <img src="https://streak-stats.demolab.com?user=PabodaFdo&theme=dark&background=061A40&border=30363d&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=4169E1&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
 <br/><br/>
-
-<!-- TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=PabodaFdo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
 
 ---
 
