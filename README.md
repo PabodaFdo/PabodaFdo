@@ -303,9 +303,11 @@ https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.s
   <img src="https://img.shields.io/badge/GitHub-PabodaFdo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1PwHbAJEh3Yxx8LeBhjpgB4f0DsDEGIFk/view?usp=sharing">
-  <img src="https://img.shields.io/badge/CV-View%20Resume-4169E1?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+
+<a href="https://github.com/PabodaFdo/Paboda_Portfolio/raw/main/public/cv/Paboda_Sathsarani_CV.pdf">
+  <img src="https://img.shields.io/badge/CV-View%20Resume-4169E1?style=for-the-badge&logo=github&logoColor=white" alt="CV"/>
 </a>
+
 
 <br/><br/>
 
