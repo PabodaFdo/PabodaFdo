@@ -25,47 +25,36 @@
 <a href="https://paboda-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4169E1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/paboda-sathsarani">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:pabodafernandowpsf@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/PabodaFdo/Paboda_Portfolio/raw/main/public/cv/Paboda_Sathsarani_CV.pdf">
-  <img src="https://img.shields.io/badge/Resume-View%20CV-061A40?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-</a>
 
 </div>
 
 👩‍💻 About Me
 
-name: W. Paboda Sathsarani Fernando
-location: Panadura, Sri Lanka
-university: Sri Lanka Institute of Information Technology (SLIIT)
-degree: BSc (Hons) in Information Technology
-specialization: Data Science
-academic_year: 3rd Year
-current_cgpa: 3.65
-academic_recognition: Dean's List — Year 2 Semesters 1 and 2
+name: W. Paboda Sathsarani Fernandouniversity: Sri Lanka Institute of Information Technology (SLIIT)degree: BSc (Hons) in Information Technologyspecialization: Data Scienceacademic_year: 3rd Yearcurrent_cgpa: 3.65academic_recognition: Dean's List — Year 2 Semesters 1 and 2
 
 open_to:
-  - Data Science Internships
-  - Data Analytics Internships
-  - Machine Learning / AI Internships
-  - Data Engineering Internships
-  - Software Engineering Internships
+
+Data Science Internships
+
+Data Analytics Internships
+
+Machine Learning / AI Internships
+
+Data Engineering Internships
+
+Software Engineering Internships
 
 current_focus:
-  - End-to-end machine learning and predictive systems
-  - Reproducible data pipelines and analytical warehouses
-  - Full-stack AI applications and microservice integration
-  - Data quality, testing, visualization, and business insights
 
-languages: ["Sinhala", "English"]
-motto: "Turning data, code, and ideas into intelligent solutions."
+End-to-end machine learning and predictive systems
+
+Reproducible data pipelines and analytical warehouses
+
+Full-stack AI applications and microservice integration
+
+Data quality, testing, visualization, and business insights
+
+languages: ["Sinhala", "English"]motto: "Turning data, code, and ideas into intelligent solutions."
 
 I am a third-year BSc (Hons) Information Technology undergraduate at SLIIT, specializing in Data Science, with a current CGPA of 3.65 and Dean’s List recognition for Year 2 Semesters 1 and 2. I have practical experience in machine learning, predictive analytics, recommendation systems, data engineering, full-stack web development, and mobile application development.
 
@@ -77,9 +66,11 @@ I am currently seeking a Data Science, Data Analytics, AI/ML, Data Engineering, 
 
 🏆 ACHIEVEMENT LOG
 
-+ Dean’s List Recognition — Year 2 Semester 2
-+ Dean’s List Recognition — Year 2 Semester 1
-+ Current GPA: 3.65
+Dean’s List Recognition — Year 2 Semester 2
+
+Dean’s List Recognition — Year 2 Semester 1
+
+Current GPA: 3.65
 
 💡 What I Build
 
@@ -416,36 +407,6 @@ Dashboards, statistical reasoning, and business recommendations
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</div>
-
-🤝 Let's Connect
-
-<div align="center">
-
-I am open to internship opportunities, project collaborations, and conversations about data science, machine learning, data engineering, and software development.
-
-<br/>
-
-<a href="mailto:pabodafernandowpsf@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-pabodafernandowpsf%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/paboda-sathsarani">
-  <img src="https://img.shields.io/badge/LinkedIn-Paboda%20Sathsarani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/PabodaFdo">
-  <img src="https://img.shields.io/badge/GitHub-PabodaFdo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://paboda-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-4169E1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%20do%20it%2C%20then%20do%20it%20right%2C%20then%20do%20it%20better.&author=Addy%20Osmani" alt="Profile quote"/>
-
 </div>
 
 <div align="center">
