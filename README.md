@@ -30,7 +30,12 @@
 
 👩‍💻 About Me
 
-name: W. Paboda Sathsarani Fernandouniversity: Sri Lanka Institute of Information Technology (SLIIT)degree: BSc (Hons) in Information Technologyspecialization: Data Scienceacademic_year: 3rd Yearcurrent_cgpa: 3.65academic_recognition: Dean's List — Year 2 Semesters 1 and 2
+name: W. Paboda Sathsarani Fernando
+university: Sri Lanka Institute of Information Technology (SLIIT)
+degree: BSc (Hons) in Information Technology
+specialization: Data Scienceacademic_year: 3rd Year
+current_cgpa: 3.65
+academic_recognition: Dean's List — Year 2 Semesters 1 and 2
 
 open_to:
 
