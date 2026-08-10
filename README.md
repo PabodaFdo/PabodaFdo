@@ -1,9 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:1B3A8A,100:4169E1&height=220&section=header&text=Paboda%20Sathsarani%20Fernando&fontSize=38&fontColor=EAF2FF&fontAlignY=35&desc=Data%20Science%20Undergraduate%20%7C%20Machine%20Learning%20%7C%20Data%20Engineering%20%7C%20Full-Stack%20AI&descSize=15&descColor=EAF2FF&descAlignY=55&animation=fadeIn" width="100%" alt="Profile header"/>
 
 <!-- TYPING INTRO -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&repeat=true&width=850&height=100&lines=%F0%9F%A7%A0+Building+end-to-end+machine+learning+systems;%F0%9F%9B%A0%EF%B8%8F+Engineering+reproducible+data+pipelines;%F0%9F%8C%90+Creating+full-stack+AI-powered+applications;%F0%9F%93%8A+Turning+complex+data+into+clear+decisions" alt="Typing introduction"/>
 </a>
@@ -11,6 +13,7 @@
 <br/>
 
 <!-- PROFILE BADGES -->
+
 <img src="https://komarev.com/ghpvc/?username=PabodaFdo&style=for-the-badge&color=4169E1&label=PROFILE+VIEWS" alt="Profile views"/>
 &nbsp;
 <a href="https://github.com/PabodaFdo?tab=followers">
@@ -37,11 +40,8 @@
 
 </div>
 
----
+👩‍💻 About Me
 
-## 👩‍💻 About Me
-
-```yaml
 name: W. Paboda Sathsarani Fernando
 location: Panadura, Sri Lanka
 university: Sri Lanka Institute of Information Technology (SLIIT)
@@ -66,29 +66,22 @@ current_focus:
 
 languages: ["Sinhala", "English"]
 motto: "Turning data, code, and ideas into intelligent solutions."
-```
 
-I am a **third-year BSc (Hons) Information Technology undergraduate at SLIIT, specializing in Data Science**, with a **current CGPA of 3.65** and **Dean’s List recognition for Year 2 Semesters 1 and 2**. I have practical experience in **machine learning, predictive analytics, recommendation systems, data engineering, full-stack web development, and mobile application development**.
+I am a third-year BSc (Hons) Information Technology undergraduate at SLIIT, specializing in Data Science, with a current CGPA of 3.65 and Dean’s List recognition for Year 2 Semesters 1 and 2. I have practical experience in machine learning, predictive analytics, recommendation systems, data engineering, full-stack web development, and mobile application development.
 
-I enjoy building practical, end-to-end systems that combine **data preparation, feature engineering, machine-learning models, secure REST APIs, databases, interactive dashboards, and user-friendly interfaces** to solve real-world problems.
+I enjoy building practical, end-to-end systems that combine data preparation, feature engineering, machine-learning models, secure REST APIs, databases, interactive dashboards, and user-friendly interfaces to solve real-world problems.
 
-Through my academic and personal projects, I have strengthened my skills in **analytical problem-solving, model evaluation, data quality, backend integration, authentication, dashboard development, testing, documentation, Git workflows, and collaborative software engineering**.
+Through my academic and personal projects, I have strengthened my skills in analytical problem-solving, model evaluation, data quality, backend integration, authentication, dashboard development, testing, documentation, Git workflows, and collaborative software engineering.
 
-I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering, or Software Engineering internship** where I can apply my technical knowledge, continue learning, and contribute effectively to real-world projects.
+I am currently seeking a Data Science, Data Analytics, AI/ML, Data Engineering, or Software Engineering internship where I can apply my technical knowledge, continue learning, and contribute effectively to real-world projects.
 
----
+🏆 ACHIEVEMENT LOG
 
-## 🏆 ACHIEVEMENT LOG
-
-```diff
 + Dean’s List Recognition — Year 2 Semester 2
 + Dean’s List Recognition — Year 2 Semester 1
 + Current GPA: 3.65
-```
 
----
-
-## 💡 What I Build
+💡 What I Build
 
 <table>
 <tr>
@@ -107,13 +100,11 @@ I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -125,7 +116,7 @@ I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🤖 Machine Learning & Data Science
+🤖 Machine Learning & Data Science
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -139,7 +130,7 @@ I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering
   <img src="https://img.shields.io/badge/Joblib-4169E1?style=for-the-badge" alt="Joblib"/>
 </p>
 
-### 🏗️ Data Engineering & Analytics
+🏗️ Data Engineering & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000" alt="DuckDB"/>
@@ -151,7 +142,7 @@ I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering
   <img src="https://img.shields.io/badge/ETL_Pipelines-061A40?style=for-the-badge" alt="ETL Pipelines"/>
 </p>
 
-### ⚙️ Backend, APIs & Databases
+⚙️ Backend, APIs & Databases
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -168,7 +159,7 @@ I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
-### 🎨 Frontend, Apps & Visualization
+🎨 Frontend, Apps & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -182,7 +173,7 @@ I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
-### 🔧 Development Tools
+🔧 Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -196,9 +187,7 @@ I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering
 
 </div>
 
----
-
-## 🚀 &nbsp;Featured Projects
+🚀  Featured Projects
 
 <table align="center">
 
@@ -322,56 +311,60 @@ I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering
 
 </table>
 
----
-
-## 🎓 Education
+🎓 Education
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### BSc (Hons) in Information Technology
+BSc (Hons) in Information Technology
 
-**Specialization:** Data Science  
-**University:** Sri Lanka Institute of Information Technology, Malabe  
-**Period:** 2023 — Present  
-**Expected Graduation:** 2028  
-**Current CGPA:** 3.65  
-**Academic Recognition:** Dean’s List — Year 2 Semesters 1 and 2
+Specialization: Data ScienceUniversity: Sri Lanka Institute of Information Technology, MalabePeriod: 2023 — PresentExpected Graduation: 2028Current CGPA: 3.65Academic Recognition: Dean’s List — Year 2 Semesters 1 and 2
 
-**Focus areas**
-- Machine Learning
-- Statistics and Predictive Analytics
-- Data Engineering
-- Software Engineering
-- Database Systems
-- Cloud Computing
-- AI/ML Research
+Focus areas
+
+Machine Learning
+
+Statistics and Predictive Analytics
+
+Data Engineering
+
+Software Engineering
+
+Database Systems
+
+Cloud Computing
+
+AI/ML Research
 
 </td>
 <td width="50%" valign="top">
 
-### Academic & Project Experience
+Academic & Project Experience
 
 Developed individual and team projects from requirements analysis to implementation while practicing structured software-development and Git workflows.
 
+Experience areas
 
-**Experience areas**
-- System and database design
-- Data preparation and analytics
-- Machine-learning model integration
-- Backend API development
-- Web and mobile development
-- Testing and documentation
-- Agile teamwork and version control
+System and database design
+
+Data preparation and analytics
+
+Machine-learning model integration
+
+Backend API development
+
+Web and mobile development
+
+Testing and documentation
+
+Agile teamwork and version control
 
 </td>
 </tr>
 </table>
 
----
-
-## 🌱 Currently Strengthening
+🌱 Currently Strengthening
 
 <div align="center">
 
@@ -398,15 +391,13 @@ Dashboards, statistical reasoning, and business recommendations
 
 </div>
 
----
-
-## 📈 GitHub Analytics
+📈 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/PabodaFdo">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabodaFdo&show_icons=true&theme=github_dark&border_color=30363d&bg_color=061A40&title_color=4169E1&icon_color=4169E1&text_color=EAF2FF&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PabodaFdo&layout=compact&theme=github_dark&border_color=30363d&bg_color=061A40&title_color=4169E1&text_color=EAF2FF&hide_border=false&langs_count=8" alt="Top programming languages"/>
+  <img height="180em" src="./profile/stats.svg" alt="GitHub statistics"/>
+  <img height="180em" src="./profile/top-langs.svg" alt="Top programming languages"/>
 </a>
 
 <br/>
@@ -415,29 +406,23 @@ Dashboards, statistical reasoning, and business recommendations
 
 </div>
 
----
-
-## 📉 Contribution Graph
+📉 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabodaFdo&bg_color=061A40&color=EAF2FF&line=4169E1&point=EAF2FF&area_color=4169E1&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution graph"/>
 </div>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
 </div>
 
----
-
-## 🤝 Let's Connect
+🤝 Let's Connect
 
 <div align="center">
 
-I am open to **internship opportunities, project collaborations, and conversations about data science, machine learning, data engineering, and software development**.
+I am open to internship opportunities, project collaborations, and conversations about data science, machine learning, data engineering, and software development.
 
 <br/>
 
@@ -463,11 +448,9 @@ I am open to **internship opportunities, project collaborations, and conversatio
 
 </div>
 
----
-
 <div align="center">
 
-### 💙 Thank you for visiting my profile
+💙 Thank you for visiting my profile
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:1B3A8A,100:4169E1&height=120&section=footer" width="100%" alt="Footer"/>
 
