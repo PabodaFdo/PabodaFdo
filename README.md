@@ -541,16 +541,6 @@ Dashboards, statistical reasoning, and business recommendations
 
 ---
 
-# 📉 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabodaFdo&bg_color=061A40&color=EAF2FF&line=4169E1&point=EAF2FF&area_color=4169E1&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution graph"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
