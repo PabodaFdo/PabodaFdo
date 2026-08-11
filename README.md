@@ -28,79 +28,140 @@
 
 </div>
 
-👩‍💻 About Me
+---
 
-name: W. Paboda Sathsarani Fernando
-university: Sri Lanka Institute of Information Technology (SLIIT)
-degree: BSc (Hons) in Information Technology
-specialization: Data Scienceacademic_year: 3rd Year
-current_cgpa: 3.65
-academic_recognition: Dean's List — Year 2 Semesters 1 and 2
-
-open_to:
-
-Data Science Internships
-
-Data Analytics Internships
-
-Machine Learning / AI Internships
-
-Data Engineering Internships
-
-Software Engineering Internships
-
-current_focus:
-
-End-to-end machine learning and predictive systems
-
-Reproducible data pipelines and analytical warehouses
-
-Full-stack AI applications and microservice integration
-
-Data quality, testing, visualization, and business insights
-
-languages: ["Sinhala", "English"]motto: "Turning data, code, and ideas into intelligent solutions."
-
-I am a third-year BSc (Hons) Information Technology undergraduate at SLIIT, specializing in Data Science, with a current CGPA of 3.65 and Dean’s List recognition for Year 2 Semesters 1 and 2. I have practical experience in machine learning, predictive analytics, recommendation systems, data engineering, full-stack web development, and mobile application development.
-
-I enjoy building practical, end-to-end systems that combine data preparation, feature engineering, machine-learning models, secure REST APIs, databases, interactive dashboards, and user-friendly interfaces to solve real-world problems.
-
-Through my academic and personal projects, I have strengthened my skills in analytical problem-solving, model evaluation, data quality, backend integration, authentication, dashboard development, testing, documentation, Git workflows, and collaborative software engineering.
-
-I am currently seeking a Data Science, Data Analytics, AI/ML, Data Engineering, or Software Engineering internship where I can apply my technical knowledge, continue learning, and contribute effectively to real-world projects.
-
-🏆 ACHIEVEMENT LOG
-
-Dean’s List Recognition — Year 2 Semester 2
-
-Dean’s List Recognition — Year 2 Semester 1
-
-Current GPA: 3.65
-
-💡 What I Build
+# 👩‍💻 About Me
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
-<h3>🧠 Data Science & ML</h3>
-<p>Data cleaning, feature engineering, model comparison, imbalance handling, threshold tuning, evaluation, and predictive applications.</p>
+<td width="50%" valign="top">
+
+### 🎓 Academic Profile
+
+* **Name:** W. Paboda Sathsarani Fernando
+* **University:** Sri Lanka Institute of Information Technology (SLIIT)
+* **Degree:** BSc (Hons) in Information Technology
+* **Specialization:** Data Science
+* **Academic Year:** 3rd Year
+* **Current CGPA:** 3.65
+* **Academic Recognition:** Dean's List — Year 2 Semesters 1 and 2
+
 </td>
-<td width="33%" valign="top" align="center">
-<h3>🛠️ Data Engineering</h3>
-<p>Automated profiling, validation gates, reproducible pipelines, Parquet processing, analytical warehouses, SQL analysis, testing, and CI.</p>
-</td>
-<td width="33%" valign="top" align="center">
-<h3>🌐 Full-Stack AI</h3>
-<p>React applications, REST APIs, authentication, relational databases, FastAPI AI services, external AI integration, and cloud deployment.</p>
+
+<td width="50%" valign="top">
+
+### 🎯 Open To
+
+* Data Science Internships
+* Data Analytics Internships
+* Machine Learning / AI Internships
+* Data Engineering Internships
+* Software Engineering Internships
+
+### 🌐 Languages
+
+* Sinhala
+* English
+
 </td>
 </tr>
 </table>
 
-🛠️ Tech Stack
+### 🔍 Current Focus
+
+* 🧠 End-to-end machine learning and predictive systems
+* 🛠️ Reproducible data pipelines and analytical warehouses
+* 🌐 Full-stack AI applications and microservice integration
+* 📊 Data quality, testing, visualization, and business insights
+
+<br/>
+
+I am a third-year **BSc (Hons) Information Technology undergraduate at SLIIT**, specializing in **Data Science**, with a current **CGPA of 3.65** and **Dean’s List recognition for Year 2 Semesters 1 and 2**.
+
+I have practical experience in **machine learning, predictive analytics, recommendation systems, data engineering, full-stack web development, and mobile application development**.
+
+I enjoy building practical, end-to-end systems that combine **data preparation, feature engineering, machine-learning models, secure REST APIs, databases, interactive dashboards, and user-friendly interfaces** to solve real-world problems.
+
+Through my academic and personal projects, I have strengthened my skills in **analytical problem-solving, model evaluation, data quality, backend integration, authentication, dashboard development, testing, documentation, Git workflows, and collaborative software engineering**.
+
+I am currently seeking a **Data Science, Data Analytics, AI/ML, Data Engineering, or Software Engineering internship** where I can apply my technical knowledge, continue learning, and contribute effectively to real-world projects.
 
 <div align="center">
 
-💻 Programming Languages
+### 💙 Motto
+
+**"Turning data, code, and ideas into intelligent solutions."**
+
+</div>
+
+---
+
+# 🏆 Achievement Log
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🏆 Dean’s List</h3>
+<b>Year 2 Semester 2</b>
+</td>
+
+<td align="center" width="33%">
+<h3>🏆 Dean’s List</h3>
+<b>Year 2 Semester 1</b>
+</td>
+
+<td align="center" width="33%">
+<h3>📊 Current GPA</h3>
+<b>3.65</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💡 What I Build
+
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 🧠 Data Science & ML
+
+Data cleaning, feature engineering, model comparison, imbalance handling, threshold tuning, evaluation, and predictive applications.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🛠️ Data Engineering
+
+Automated profiling, validation gates, reproducible pipelines, Parquet processing, analytical warehouses, SQL analysis, testing, and CI.
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🌐 Full-Stack AI
+
+React applications, REST APIs, authentication, relational databases, FastAPI AI services, external AI integration, and cloud deployment.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -112,7 +173,7 @@ Current GPA: 3.65
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-🤖 Machine Learning & Data Science
+## 🤖 Machine Learning & Data Science
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -126,7 +187,7 @@ Current GPA: 3.65
   <img src="https://img.shields.io/badge/Joblib-4169E1?style=for-the-badge" alt="Joblib"/>
 </p>
 
-🏗️ Data Engineering & Analytics
+## 🏗️ Data Engineering & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000" alt="DuckDB"/>
@@ -138,7 +199,7 @@ Current GPA: 3.65
   <img src="https://img.shields.io/badge/ETL_Pipelines-061A40?style=for-the-badge" alt="ETL Pipelines"/>
 </p>
 
-⚙️ Backend, APIs & Databases
+## ⚙️ Backend, APIs & Databases
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -155,7 +216,7 @@ Current GPA: 3.65
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 
-🎨 Frontend, Apps & Visualization
+## 🎨 Frontend, Apps & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -169,7 +230,7 @@ Current GPA: 3.65
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
-🔧 Development Tools
+## 🔧 Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -183,14 +244,20 @@ Current GPA: 3.65
 
 </div>
 
-🚀  Featured Projects
+---
+
+# 🚀 Featured Projects
 
 <table align="center">
 
 <tr>
+
 <td width="50%" valign="top">
-<p><b>🌱 <a href="https://github.com/PabodaFdo/StudyPulse_AI">StudyPulse AI</a></b></p>
-<p>A full-stack AI-powered student productivity, wellness, and academic growth platform with smart notes, focus tracking, academic analytics, PDF processing, AI-generated summaries, quizzes, flashcards, and gamified study rewards.</p>
+
+### 🌱 [StudyPulse AI](https://github.com/PabodaFdo/StudyPulse_AI)
+
+A full-stack AI-powered student productivity, wellness, and academic growth platform with smart notes, focus tracking, academic analytics, PDF processing, AI-generated summaries, quizzes, flashcards, and gamified study rewards.
+
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -198,11 +265,15 @@ Current GPA: 3.65
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
+
 </td>
 
 <td width="50%" valign="top">
-<p><b>🏙️ <a href="https://github.com/PabodaFdo/airbnb-data-engineering-challenge">Amsterdam Airbnb Data Engineering & Analytics</a></b></p>
-<p>A reproducible, memory-aware data engineering project with automated profiling, data-quality validation, Parquet processing, a DuckDB analytical warehouse, statistical analysis, automated testing, continuous integration, and an interactive dashboard.</p>
+
+### 🏙️ [Amsterdam Airbnb Data Engineering & Analytics](https://github.com/PabodaFdo/airbnb-data-engineering-challenge)
+
+A reproducible, memory-aware data engineering project with automated profiling, data-quality validation, Parquet processing, a DuckDB analytical warehouse, statistical analysis, automated testing, continuous integration, and an interactive dashboard.
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=000000"/>
@@ -211,13 +282,19 @@ Current GPA: 3.65
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
+
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
-<p><b>🏥 <a href="https://github.com/PabodaFdo/Diabetes-Patient-Readmission-Prediction">Diabetes Patient Readmission Prediction</a></b></p>
-<p>An end-to-end machine learning application that predicts 30-day diabetes patient readmission risk using feature engineering, class-imbalance handling, model comparison, threshold tuning, and an interactive Streamlit interface.</p>
+
+### 🏥 [Diabetes Patient Readmission Prediction](https://github.com/PabodaFdo/Diabetes-Patient-Readmission-Prediction)
+
+An end-to-end machine learning application that predicts 30-day diabetes patient readmission risk using feature engineering, class-imbalance handling, model comparison, threshold tuning, and an interactive Streamlit interface.
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
@@ -225,11 +302,15 @@ Current GPA: 3.65
 <img src="https://img.shields.io/badge/Imbalanced--learn-6A5ACD?style=flat-square"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
+
 </td>
 
 <td width="50%" valign="top">
-<p><b>💰 <a href="https://github.com/PabodaFdo/AI-Driven-Microfinance_Bank">AI-Driven Microfinance Loan Risk Prediction</a></b></p>
-<p>An end-to-end AI-powered microfinance system that predicts loan default risk and supports loan recommendations using machine learning models and a full-stack application workflow.</p>
+
+### 💰 [AI-Driven Microfinance Loan Risk Prediction](https://github.com/PabodaFdo/AI-Driven-Microfinance_Bank)
+
+An end-to-end AI-powered microfinance system that predicts loan default risk and supports loan recommendations using machine learning models and a full-stack application workflow.
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
@@ -237,37 +318,53 @@ Current GPA: 3.65
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
+
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
-<p><b>🏃 <a href="https://github.com/PabodaFdo/Fitness_Tracker_Mobile_App">Fitness Tracker Mobile App</a></b></p>
-<p>A mobile fitness tracking application for managing goals, recording progress, and viewing analytics through a user-friendly mobile interface.</p>
+
+### 🏃 [Fitness Tracker Mobile App](https://github.com/PabodaFdo/Fitness_Tracker_Mobile_App)
+
+A mobile fitness tracking application for managing goals, recording progress, and viewing analytics through a user-friendly mobile interface.
+
 <p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
+
 </td>
 
 <td width="50%" valign="top">
-<p><b>🗳️ <a href="https://github.com/PabodaFdo/Web-based-Voting-System-for-Award-Nominations">Web-Based Voting System for Award Nominations</a></b></p>
-<p>A secure online voting system for award nominations with voter authentication, admin controls, and real-time result handling for institutional use.</p>
+
+### 🗳️ [Web-Based Voting System for Award Nominations](https://github.com/PabodaFdo/Web-based-Voting-System-for-Award-Nominations)
+
+A secure online voting system for award nominations with voter authentication, admin controls, and real-time result handling for institutional use.
+
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-4169E1?style=flat-square"/>
 </p>
+
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
-<p><b>🦟 <a href="https://github.com/PabodaFdo/Dengue-Risk-Prediction-System-">Dengue Risk Prediction System</a></b></p>
-<p>A machine learning system that predicts dengue outbreak risk using climate data, population density, historical case patterns, and data-driven risk analysis.</p>
+
+### 🦟 [Dengue Risk Prediction System](https://github.com/PabodaFdo/Dengue-Risk-Prediction-System-)
+
+A machine learning system that predicts dengue outbreak risk using climate data, population density, historical case patterns, and data-driven risk analysis.
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
@@ -275,11 +372,15 @@ Current GPA: 3.65
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
 </p>
+
 </td>
 
 <td width="50%" valign="top">
-<p><b>🏠 <a href="https://github.com/PabodaFdo/Real_Estate_Property_Listing_Portal">Real Estate Property Listing Portal</a></b></p>
-<p>A full-featured property listing platform with property search, listing management, comparison features, agent-related functions, and user authentication.</p>
+
+### 🏠 [Real Estate Property Listing Portal](https://github.com/PabodaFdo/Real_Estate_Property_Listing_Portal)
+
+A full-featured property listing platform with property search, listing management, comparison features, agent-related functions, and user authentication.
+
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -287,107 +388,143 @@ Current GPA: 3.65
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
+
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
-<p><b>🎨 <a href="https://github.com/PabodaFdo/Paboda_Portfolio">Portfolio Website</a></b></p>
-<p>A modern personal portfolio website built to showcase skills, projects, education, and contact details with a clean animated interface.</p>
+
+### 🎨 [Portfolio Website](https://github.com/PabodaFdo/Paboda_Portfolio)
+
+A modern personal portfolio website built to showcase skills, projects, education, and contact details with a clean animated interface.
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
+
 </td>
 
 <td width="50%" valign="top">
+
+### 📌 Project Areas
+
+**Machine Learning • Data Engineering • Full-Stack Development • Mobile Development • Analytics**
+
 </td>
+
 </tr>
 
 </table>
 
-🎓 Education
+---
+
+# 🎓 Education
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-BSc (Hons) in Information Technology
+### 🎓 BSc (Hons) in Information Technology
 
-Specialization: Data ScienceUniversity: Sri Lanka Institute of Information Technology, MalabePeriod: 2023 — PresentExpected Graduation: 2028Current CGPA: 3.65Academic Recognition: Dean’s List — Year 2 Semesters 1 and 2
+**Specialization:** Data Science
+**University:** Sri Lanka Institute of Information Technology, Malabe
+**Period:** 2023 — Present
+**Expected Graduation:** 2028
+**Current CGPA:** 3.65
+**Academic Recognition:** Dean’s List — Year 2 Semesters 1 and 2
 
-Focus areas
+#### 📚 Focus Areas
 
-Machine Learning
-
-Statistics and Predictive Analytics
-
-Data Engineering
-
-Software Engineering
-
-Database Systems
-
-Cloud Computing
-
-AI/ML Research
+* Machine Learning
+* Statistics and Predictive Analytics
+* Data Engineering
+* Software Engineering
+* Database Systems
+* Cloud Computing
+* AI/ML Research
 
 </td>
+
 <td width="50%" valign="top">
 
-Academic & Project Experience
+### 💻 Academic & Project Experience
 
 Developed individual and team projects from requirements analysis to implementation while practicing structured software-development and Git workflows.
 
-Experience areas
+#### 🔧 Experience Areas
 
-System and database design
-
-Data preparation and analytics
-
-Machine-learning model integration
-
-Backend API development
-
-Web and mobile development
-
-Testing and documentation
-
-Agile teamwork and version control
+* System and database design
+* Data preparation and analytics
+* Machine-learning model integration
+* Backend API development
+* Web and mobile development
+* Testing and documentation
+* Agile teamwork and version control
 
 </td>
+
 </tr>
+
 </table>
 
-🌱 Currently Strengthening
+---
+
+# 🌱 Currently Strengthening
 
 <div align="center">
 
 <table>
+
 <tr>
+
 <td align="center" width="25%">
-<b>Production ML</b><br/>
+
+### 🧠 Production ML
+
 Reliable evaluation, explainability, monitoring, and deployment
+
 </td>
+
 <td align="center" width="25%">
-<b>Data Engineering</b><br/>
+
+### 🏗️ Data Engineering
+
 Warehousing, orchestration, data quality, and scalable pipelines
+
 </td>
+
 <td align="center" width="25%">
-<b>Full-Stack AI</b><br/>
+
+### 🌐 Full-Stack AI
+
 Secure APIs, microservices, databases, and AI integration
+
 </td>
+
 <td align="center" width="25%">
-<b>Analytics Storytelling</b><br/>
+
+### 📊 Analytics Storytelling
+
 Dashboards, statistical reasoning, and business recommendations
+
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
-📈 GitHub Analytics
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -396,27 +533,37 @@ Dashboards, statistical reasoning, and business recommendations
   <img height="180em" src="./profile/top-langs.svg" alt="Top programming languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=PabodaFdo&theme=dark&background=061A40&border=30363d&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakNum=EAF2FF&sideNums=EAF2FF&currStreakLabel=4169E1&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
-📉 Contribution Graph
+---
+
+# 📉 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabodaFdo&bg_color=061A40&color=EAF2FF&line=4169E1&point=EAF2FF&area_color=4169E1&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabodaFdo&bg_color=061A40&color=EAF2FF&line=4169E1&point=EAF2FF&area_color=4169E1&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Contribution graph"/>
+
 </div>
 
-🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+<img src="https://raw.githubusercontent.com/PabodaFdo/PabodaFdo/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
 </div>
 
+<br/>
+
 <div align="center">
 
-💙 Thank you for visiting my profile
+## 💙 Thank you for visiting my profile
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:1B3A8A,100:4169E1&height=120&section=footer" width="100%" alt="Footer"/>
 
