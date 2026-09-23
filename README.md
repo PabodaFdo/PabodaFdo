@@ -535,7 +535,7 @@ Dashboards, statistical reasoning, and business recommendations
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=PabodaFdo&theme=dark&background=061A40&border=30363d&stroke=4169E1&ring=4169E1&fire=4169E1&currStreakNum=EAF2FF&sideNums=EAF2FF&currStreakLabel=4169E1&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak"/>
+<img src="./profile/streak.svg" alt="GitHub contribution streak"/>
 
 </div>
 
