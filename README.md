@@ -537,6 +537,12 @@ Dashboards, statistical reasoning, and business recommendations
 
 <img src="./profile/streak.svg" alt="GitHub contribution streak"/>
 
+<br/><br/>
+
+### 📊 Recent Contribution Activity
+
+<img src="./profile/activity-graph.svg" alt="GitHub contribution activity graph"/>
+
 </div>
 
 ---
