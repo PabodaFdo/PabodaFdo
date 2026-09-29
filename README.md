@@ -180,20 +180,13 @@ React applications, REST APIs, authentication, relational databases, FastAPI AI 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/SHAP-7B2CBF?style=for-the-badge" alt="SHAP"/>
-  <img src="https://img.shields.io/badge/Imbalanced--learn-6A5ACD?style=for-the-badge" alt="Imbalanced-learn"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Joblib-4169E1?style=for-the-badge" alt="Joblib"/>
 </p>
 
 ## 🏗️ Data Engineering & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000" alt="DuckDB"/>
-  <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white" alt="Apache Parquet"/>
-  <img src="https://img.shields.io/badge/PyArrow-1F6FEB?style=for-the-badge&logo=apache&logoColor=white" alt="PyArrow"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Data_Quality-1B3A8A?style=for-the-badge" alt="Data Quality"/>
   <img src="https://img.shields.io/badge/ETL_Pipelines-061A40?style=for-the-badge" alt="ETL Pipelines"/>
@@ -225,9 +218,6 @@ React applications, REST APIs, authentication, relational databases, FastAPI AI 
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" alt="Recharts"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
 ## 🔧 Development Tools
